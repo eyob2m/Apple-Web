@@ -1,8 +1,7 @@
 
 function App() {
-const [name, setname] = useState(second)
-  return (
-   <h1 className='text-blue-400'>Hello</h1>
+ return (
+   <h1 className='text-blue-400'>Hellko</h1>
   )
 }
 
